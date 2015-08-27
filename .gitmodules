@@ -1,0 +1,3 @@
+[submodule "taiga-events"]
+	path = taiga-events
+	url = https://github.com/taigaio/taiga-events.git
