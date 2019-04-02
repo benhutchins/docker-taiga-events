@@ -1,4 +1,4 @@
-FROM node:0.10
+FROM node:8.15.1-alpine
 MAINTAINER Benjamin Hutchins <ben@hutchins.co>
 
 COPY taiga-events /usr/src/taiga-events
